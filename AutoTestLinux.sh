@@ -1,5 +1,4 @@
 
-# qingdong.shi@intel.com, 2014_April_03
 #nightly_new_sw = "http://shctsbdb01.sh.intel.com/httpserverfile/baytrail/anzhen4/mrd7_p0/nightly/20140411002515/"
 #					http://shctsbdb01.sh.intel.com/httpserverfile/baytrail/anzhen4/mrd7/nightly/20140504000150/
 #po http://shctsbdb01.sh.intel.com/httpserverfile/baytrail/anzhen4/mrd7_p0/nightly/20140504000133/
